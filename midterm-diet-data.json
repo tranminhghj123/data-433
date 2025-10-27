@@ -1,0 +1,236 @@
+{
+    "categories": [
+        "calories",
+        "protein",
+        "fat",
+        "sodium"
+    ],
+    "cost": {
+        "beluga caviar": 500,
+        "bluefin tuna": 60,
+        "gooseneck barnacles": 60,
+        "kobe beef": 20,
+        "lobster": 33,
+        "matsutake mushrooms": 7,
+        "white truffles": 900
+    },
+    "foods": [
+        "beluga caviar",
+        "kobe beef",
+        "white truffles",
+        "matsutake mushrooms",
+        "gooseneck barnacles",
+        "bluefin tuna",
+        "lobster"
+    ],
+    "maxNutrition": {
+        "calories": 2200,
+        "fat": 65,
+        "protein": 1e+100,
+        "sodium": 1779
+    },
+    "minNutrition": {
+        "calories": 1800,
+        "fat": 0,
+        "protein": 91,
+        "sodium": 0
+    },
+    "nutritionValues": [
+        [
+            [
+                "beluga caviar",
+                "calories"
+            ],
+            247
+        ],
+        [
+            [
+                "beluga caviar",
+                "protein"
+            ],
+            25
+        ],
+        [
+            [
+                "beluga caviar",
+                "fat"
+            ],
+            19
+        ],
+        [
+            [
+                "beluga caviar",
+                "sodium"
+            ],
+            1500
+        ],
+        [
+            [
+                "kobe beef",
+                "calories"
+            ],
+            292
+        ],
+        [
+            [
+                "kobe beef",
+                "protein"
+            ],
+            14.5
+        ],
+        [
+            [
+                "kobe beef",
+                "fat"
+            ],
+            25.7
+        ],
+        [
+            [
+                "kobe beef",
+                "sodium"
+            ],
+            62
+        ],
+        [
+            [
+                "white truffles",
+                "calories"
+            ],
+            48
+        ],
+        [
+            [
+                "white truffles",
+                "protein"
+            ],
+            5
+        ],
+        [
+            [
+                "white truffles",
+                "fat"
+            ],
+            0.5
+        ],
+        [
+            [
+                "white truffles",
+                "sodium"
+            ],
+            50
+        ],
+        [
+            [
+                "matsutake mushrooms",
+                "calories"
+            ],
+            23
+        ],
+        [
+            [
+                "matsutake mushrooms",
+                "protein"
+            ],
+            0.6
+        ],
+        [
+            [
+                "matsutake mushrooms",
+                "fat"
+            ],
+            0.2
+        ],
+        [
+            [
+                "matsutake mushrooms",
+                "sodium"
+            ],
+            0.6
+        ],
+        [
+            [
+                "gooseneck barnacles",
+                "calories"
+            ],
+            66
+        ],
+        [
+            [
+                "gooseneck barnacles",
+                "protein"
+            ],
+            15
+        ],
+        [
+            [
+                "gooseneck barnacles",
+                "fat"
+            ],
+            0.7
+        ],
+        [
+            [
+                "gooseneck barnacles",
+                "sodium"
+            ],
+            1
+        ],
+        [
+            [
+                "bluefin tuna",
+                "calories"
+            ],
+            144
+        ],
+        [
+            [
+                "bluefin tuna",
+                "protein"
+            ],
+            23
+        ],
+        [
+            [
+                "bluefin tuna",
+                "fat"
+            ],
+            4
+        ],
+        [
+            [
+                "bluefin tuna",
+                "sodium"
+            ],
+            39
+        ],
+        [
+            [
+                "lobster",
+                "calories"
+            ],
+            90
+        ],
+        [
+            [
+                "lobster",
+                "protein"
+            ],
+            19
+        ],
+        [
+            [
+                "lobster",
+                "fat"
+            ],
+            1
+        ],
+        [
+            [
+                "lobster",
+                "sodium"
+            ],
+            360
+        ]
+    ]
+}
